@@ -7,13 +7,13 @@ import { getAuth, GoogleAuthProvider, signInWithPopup } from "https://www.gstati
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyA8KN-YOfyn5Zi7FocsnXOkLwA2dTMPr68",
-    authDomain: "fir-2d245.firebaseapp.com",
-    projectId: "fir-2d245",
-    storageBucket: "fir-2d245.appspot.com",
-    messagingSenderId: "10074106758",
-    appId: "1:10074106758:web:ebede7eecc306f5033da07",
-    measurementId: "G-CSM66L5CC7"
+    apiKey: "AIzaSyCIm7Ujvnhp84Q9w7Bo3-FY6pj4t1gC7U4",
+    authDomain: "fairbase-f1e9d.firebaseapp.com",
+    projectId: "fairbase-f1e9d",
+    storageBucket: "fairbase-f1e9d.appspot.com",
+    messagingSenderId: "798324643735",
+    appId: "1:798324643735:web:ad7c5fc7c8102ea7ad16d2",
+    measurementId: "G-8L6RY3Y436"
 };
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
